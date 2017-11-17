@@ -1,0 +1,19 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  max-width:1200px;
+  margin-right:auto;
+  margin-left: auto;
+  display: block;
+}
+
+h1 {
+  text-align: center;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.inlineItem {
+  display: inline-block;
+}
